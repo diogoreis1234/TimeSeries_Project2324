@@ -2,11 +2,6 @@
 
 This repository houses a project utilizing the CRISP-DM methodology to forecast sales for a multinational industrial company. The initiative involved meticulous data exploration, extensive industry research, and in-depth analysis using macroeconomic indicators. The preprocessing phase included adjustments for inflation, data aggregation, and stationarity analysis, followed by feature engineering to capture time dependencies. Models were trained on three different datasets, each tailored with specific features to optimize prediction accuracy. The final phase involved comparing RMSE across models to select the best for future sales forecasting.
 
-## Repository Structure
-docs/: Documentation and project reports.
-
-notebooks/: Jupyter notebooks with exploratory data analysis, preprocessing steps, and modeling.
-
 ## Business Needs and Required Outcome
 ### Business Background
 The company operates in three business branches: Industrial Business, Services, and Other Business. The Smart Infrastructure Division, part of the Industrial Business, produces smart power distribution components, necessitating accurate sales forecasting.
@@ -22,3 +17,11 @@ The availability of historical sales data and macroeconomic indicators, combined
 
 ### Data Mining Goals
 The project leverages sales data from October 2018 to April 2022 and key economic indicators to predict sales for May 2022 to February 2023. The primary metric for model performance is the minimization of RMSE.
+
+## Authors 
+
+**Diogo Reis**
+**Marta Jesus**
+**Maria Almeida**
+**Tomás Louro**
+**Rita Matias**
