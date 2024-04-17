@@ -21,7 +21,11 @@ The project leverages sales data from October 2018 to April 2022 and key economi
 ## Authors 
 
 **Diogo Reis**
+
 **Marta Jesus**
+
 **Maria Almeida**
+
 **Tomás Louro**
+
 **Rita Matias**
