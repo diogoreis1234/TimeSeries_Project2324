@@ -4,6 +4,7 @@ This repository houses a project utilizing the CRISP-DM methodology to forecast 
 
 ## Repository Structure
 docs/: Documentation and project reports.
+
 notebooks/: Jupyter notebooks with exploratory data analysis, preprocessing steps, and modeling.
 
 ## Business Needs and Required Outcome
